@@ -1,0 +1,22 @@
+[
+    {
+        "Level": "N1",
+        "PK_Level": 1
+    },
+    {
+        "Level": "N2",
+        "PK_Level": 2
+    },
+    {
+        "Level": "N3",
+        "PK_Level": 3
+    },
+    {
+        "Level": "N4",
+        "PK_Level": 4
+    },
+    {
+        "Level": "N5",
+        "PK_Level": 5
+    }
+]

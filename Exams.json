@@ -1,0 +1,12 @@
+[
+    {
+        "FK_Level": 1,
+        "NameExams": "JLPT Kanji test 1",
+        "PK_Exams": 1
+    },
+    {
+        "FK_Level": 1,
+        "NameExams": "JLPT Kanji test 2",
+        "PK_Exams": 2
+    }
+]
